@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "git-commit-msg-linter": "^3.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.21"
   }
 }
